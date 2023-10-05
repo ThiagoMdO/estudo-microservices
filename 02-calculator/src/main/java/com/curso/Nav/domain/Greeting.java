@@ -1,4 +1,4 @@
-package com.curso.Nav.beans;
+package com.curso.Nav.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
